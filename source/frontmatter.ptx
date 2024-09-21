@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>James Weigandt</personname>
+      <department>Science and Mathematics Division</department>
+      <institution>Lorain County Community College</institution>
     </author>
     <date>
       <today />
