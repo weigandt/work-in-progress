@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-xyz-consequences" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Consequences of the Lagarias--Soundararajan XYZ Conjecture</title>
+
+  <introduction>
+    <p> This article is a revision of the paper "Insulators of ABC Solutions" that I posted to the ArXiV in 2014. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-forms-of-abc-and-xyz.ptx" />
+
+</chapter>
