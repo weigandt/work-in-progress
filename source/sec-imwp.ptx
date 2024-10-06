@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Section Title</title>
+
+  <p> 
+    My introdcution to a great deal of serious matheamtics came a the 
+    Summer Undergradauate Mathematical Sciences Research Institute (SUMSRI) at
+    Miami University in 2007. It was there that Edray Goins first introduced me 
+    to what I've come to the inverse Mordell-Weil problem for ellitpic curves defined
+    over the rational numbers.
+  </p>
+
+  <p>
+    In 1926, André Weil generalized a celebrated result ot L. J. Mordell. If <m> E </m> is
+    an abelian variety defined over a nubmer field <m> K </m>, then the grooup
+    <m> E(K) </m> of <m>K</m>-rational points on <m> E </m> is a finitely generated abelian group.
+  </p>
+  <p>
+    The well known structure theorem for finitely generated modules over a principle ideal domain
+    implies that every finitely gneerated abelina group is isomorphic to one of the form
+    <equation>
+     <m> E(K)_{\text{tors}} \oplus \Bbb Z^{r(E,K)} </m>
+    </equation>
+  </p>
+
+</section>

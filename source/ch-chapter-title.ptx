@@ -4,10 +4,12 @@
   <title> Summary of Research Interests</title>
 
   <introduction>
-    <p> This is a summary of my research interests intended to act as a source from which to write a research statement or proposal. It will be fairly broad and scatterbrained.</p>
+    <p> This is a summary of my research interests intended to act 
+      as a source from which to write a research statement or proposal. 
+      It will be fairly broad and scatterbrained.</p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="sec-imwp.ptx" />
 
 </chapter>

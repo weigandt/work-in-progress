@@ -4,7 +4,15 @@
   <title> The Mordell-Weil Problem</title>
 
   <introduction>
-    <p> This is a summary of my research interests intended to act as a source from which to write a research statement or proposal. It will be fairly broad and scatterbrained.</p>
+    <p> 
+      Generalizing a result of L. J. Mordell, André Weil proved that if 
+      <m> E </m> is an abelian variety defined over a number field <m> K </m>
+      then the group <m> E(K) </m> of <m>K</m>-rational points on <m> E</m> is a 
+      finitely generated abelian group.
+    </p>
+    <p>
+      The structure of such groups is well understood.
+    </p>
   </introduction>
 
   <!-- include sections -->
