@@ -13,7 +13,13 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-mordell-weil-problem.ptx"/>
+    <xi:include href="./ch-inverse-mordell-weil-problem.ptx"/>
+    <xi:include href="./ch-elliptic-curves-with-Z2Z8-torsion.ptx"/>
     <xi:include href="./ch-xyz-consequences.ptx"/>
+    <xi:include href="./ch-abc-solutions.ptx"/>
+    <xi:include href="./ch-rank-adjusted-szpiro-conjecture.ptx"/>
+    <xi:include href="./ch-whist-tournaments.ptx"/>
 
 
     <!-- Include backmatter -->

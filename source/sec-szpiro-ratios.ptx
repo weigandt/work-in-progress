@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-szpiro-ratios" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Section Title</title>
+
+  <p> This section explains a naive heuristic for Lucien Szpiro's 
+    Conjecture the that discriminat of an elliptic curve should not often be
+    a large power of the conductor of the elliptic curve. 
+  </p>
+
+</section>

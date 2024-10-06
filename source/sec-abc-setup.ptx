@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-abc-setup" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Triples and Solutions</title>
+
+  <p> Consider an ordered triple of integers <m> (e_1, e_2, e_3) </m>. To this triple, we associate the differencess
+  <m> A = e_2 - e_1 </m>,
+  <m> B = e_3 - e_2 </m>, and 
+  <m> C = e_1 - e_3 </m>.
+  </p>
+
+</section>

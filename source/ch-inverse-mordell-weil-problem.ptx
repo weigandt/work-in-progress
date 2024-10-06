@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-inverse-mordell-weil-problem" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> The Inverse Mordell-Weil Problem</title>
+
+  <introduction>
+    <p> 
+     The Mordell-Weil Problem is already a significant 
+     open problem in number theory. For example, a proof of the Birch and 
+     Swinnerton-Dyer conjecture would prove that an algorithm exists to compute
+     the Mordell-Weil rank of an elliptic curve defined over <m> \Bbb Q </m>.
+
+     However, this algorithm would not suddenly be optimized in such a way as to be put into general
+     use for the solution to diophantine problems whose solutiosn correspond
+     to rational points on elliptic curves.
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-mazurs-torsion-theorem.ptx" />
+
+</chapter>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-abvars" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Abelian Varieties</title>
 
-  <p> Text of section. </p>
+  <p> An abelian variety has the dual nature of being both a projective 
+    algebraic varaiety and an algebraic group.  </p>
 
 </section>

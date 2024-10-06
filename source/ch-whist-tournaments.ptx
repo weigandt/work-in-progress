@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-whist-tournaments" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Whist Tournaments</title>
+
+  <introduction>
+    <p> This chapter concerns whist tournaments. In particular, the goal is to give an interprestaion of an 8 player whist tournament as the orbit of the Sylow-7 subegroup of 
+      <m> \text{GL}_3(\Bbb F_3) </m> acting on <m>\Bbb A_3(\Bbb F_3)</m>.
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+
+</chapter>

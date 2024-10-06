@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-mazurs-torsion-theorem" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mazur's Torsion Theorem</title>
+
+  <p> Before out modern definition of a group had come to matruiety, 
+    Beppo Levi had already conjectured that the rational points on an 
+    elliptic curve which do not generate infinitely many other rational 
+    points fall into one of fifteen different configurations. 
+    This conjecture was rediscovered by Andrew Ogg who related it to 
+    the genera of modular curves and ultimately proved by Barry Mazur 
+    in his celebrated paper "Modular Curves and the Eisenstein Ideal"</p>
+
+</section>

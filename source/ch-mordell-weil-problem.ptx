@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title> Summary of Research Interests</title>
+<chapter xml:id="ch-mordell-weil-problem" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> The Mordell-Weil Problem</title>
 
   <introduction>
     <p> This is a summary of my research interests intended to act as a source from which to write a research statement or proposal. It will be fairly broad and scatterbrained.</p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
 
 </chapter>
