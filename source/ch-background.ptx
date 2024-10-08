@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-background" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Background</title>
+
+  <introduction>
+    <p> 
+      This section contains some background concerning my primary research
+      interests, which focus on diophantine equations, elliptic curves, 
+      arithmetic statistics, Galois cohomology, Selmer groups, and explicit 
+      computations.
+    </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-diophantine-systems.ptx"/>
+  
+  <xi:include href="sec-imwp.ptx" />
+
+</chapter>

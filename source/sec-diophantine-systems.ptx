@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-diophantine-systems" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Diophantine Systems</title>
+
+  <p> 
+    This section concerns diophatine equations and systems and problems about such systems. 
+  </p>
+    <definition xml:id="def-diophantine-system">
+      <statement>
+        <p>
+          A <term> diophantine equation </term> defined over a ring <notation> <m>R</m> </notation> 
+          is a an equation of the form
+        </p>
+        <men> P(X_1, X_2, \dots, X_n) = 0 </men>
+        <p>
+          where <m>P \in R[X_1, X_2, \dots, X_n] </m> is a polynomial.
+        </p>
+        <p>
+          A <term> diophatine system </term> <notation> <m>V</m> </notation> defined over 
+          <m> R</m> is a finite disjunction of diophatine equations.
+        </p>
+            <men> 
+              V \, : \bigwedge_{i = 1}^k  \left ( \,  P_i\left (X_1, X_2, \dots, X_n \right ) = 0 \, \right )
+            </men>
+        <p>
+          The <term> <m>R</m>-points </term> 
+          <notation> <m> V(R) </m> </notation> of a diophantine system <m> V </m> are those tuples
+            <m> (x_1, x_2, \dots x_n) </m> where each <m> x_i </m> is an element of <m> R</m> and each of the
+            diophontine equations is satisfied.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      <term> Hilbert's Tenth Problem </term> for the ring <m> R </m> asks whether or not there exists an algorithm that takes as input a diophantine systme defined over <m> R </m> and outputs either
+      <q> Yes </q> if <m> V(R) \neq \varnothing </m> and outputs <q> No </q> if <m> V(R) = \varnothing </m>.
+    </p>
+</section>

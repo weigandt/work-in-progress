@@ -4,11 +4,14 @@
   <title>Section Title</title>
 
   <p> 
-    My introdcution to a great deal of serious matheamtics came a the 
-    Summer Undergradauate Mathematical Sciences Research Institute (SUMSRI) at
-    Miami University in 2007. It was there that Edray Goins first introduced me 
-    to what I've come to the inverse Mordell-Weil problem for ellitpic curves defined
-    over the rational numbers.
+    Much of my work grew out of an REU, the Summer Undergradauate 
+    Mathematical Sciences Research Institute (SUMSRI) at Miami University
+    in 2007. Here, Edray Goins introduced me to the Mordell-Weil problem
+    and its inverse problem. In particular, can you find an elliptic curve
+    defined over the rational numbers with torsion subgroup 
+    <m> E(\Bbb Q)_{\text{tors}} \simeq (\Bbb Z / 2 \Bbb Z) 
+      \times (\Bbb Z/ 8 \Bbb Z) \times \Bbb Z^r </m> for any 
+      integer <m> r \geq 4 </m>?
   </p>
 
   <p>

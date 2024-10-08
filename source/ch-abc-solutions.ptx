@@ -4,7 +4,9 @@
   <title> ABC Solutions </title>
 
   <introduction>
-    <p> This contains various results and ideas about solutiosn to the eqaution <m> A + B + C = 0 </m>. </p>
+    <p> This contains various results and ideas about solutions to the equation
+      <me> A + B + C = 0.</me> 
+    </p>
   </introduction>
 
   <!-- include sections -->

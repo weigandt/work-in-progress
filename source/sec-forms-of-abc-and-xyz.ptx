@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-forms-of-abc-and-xyz" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Forms of the ABC and XYZ Conjectures of Various Degress of Stength</title>
+  <title>Forms of the ABC and XYZ Conjectures</title>
 
-  <p> My hope is that this section will help to clarify some of the results described in an ealrier version of this work entiteld "insulators of ABC Solutions". </p>
+  <p> My hope is that this section will help to clarify 
+    some of the results described in an ealrier version 
+    of this work entiteld "insulators of ABC Solutions". </p>
+
+  <p>
+    We will introduce the strong and weak form or the ABC conjecture and the Strong, Resilient, Tender, and Weak forms of the XYZ Conjecture.
+  </p>
 
 </section>

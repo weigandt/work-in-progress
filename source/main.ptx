@@ -5,14 +5,14 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Work in Progress</title>
-    <subtitle>I'm happy to work with anyone interested.</subtitle>
+    <title>James Weigandt's Mathematics Research Interests</title>
+    <subtitle><alert> Warning</alert>: Half Baked Ideas Ahead</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-background.ptx" />
     <xi:include href="./ch-mordell-weil-problem.ptx"/>
     <xi:include href="./ch-inverse-mordell-weil-problem.ptx"/>
     <xi:include href="./ch-elliptic-curves-with-Z2Z8-torsion.ptx"/>
