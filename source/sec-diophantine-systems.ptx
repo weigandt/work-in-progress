@@ -33,7 +33,41 @@
     </definition>
 
     <p>
-      <term> Hilbert's Tenth Problem </term> for the ring <m> R </m> asks whether or not there exists an algorithm that takes as input a diophantine systme defined over <m> R </m> and outputs either
-      <q> Yes </q> if <m> V(R) \neq \varnothing </m> and outputs <q> No </q> if <m> V(R) = \varnothing </m>.
+      <term> Hilbert's Tenth Problem </term> for the ring <m> R </m> asks
+      whether or not there exists an algorithm that takes as input 
+      a diophantine system defined over <m> R </m> and outputs either
+      <q> Yes </q> if <m> V(R) \neq \varnothing </m> and outputs 
+      <q> No </q> if <m> V(R) = \varnothing </m>.
+
+      The following is a celebrated result due to M. Davis, H. Putnam, J. Robinson, and Y. Matiyasevich.
     </p>
+    <theorem xml:id="thm-DPRM">
+      <statement>
+        <p>
+          When <m> R = \Bbb Z</m>, Hilbert's Tenth Problem has no solution. 
+          That is, no alogrithm exists to decide whether a system of polynomial
+          equations with integer coefficients has an integer solution.
+        </p>
+      </statement>
+    </theorem>
+
+    <p> 
+    For example, we may never know if there is a perfect cuboid, 
+    which is a box with integer side lengths, integer face diagonal 
+    lengths, and an integer inner diagonal length.
+    </p>
+  
+    <question>
+      Do there exist integers <m>a, b, c, \alpha, \beta, \gamma, \delta</m> such that
+      <mdn>
+        <mrow> a^2 + b^2 \amp = \gamma^2 </mrow>
+        <mrow> b^2 + c^2 \amp = \alpha^2 </mrow>
+        <mrow> c^2 + a^2 \amp = \beta^2 </mrow>
+        <mrow> a^2 + b^2 + c^2 \amp = \delta^2 </mrow>
+      </mdn>
+    </question>
+
+
+
+    
 </section>
